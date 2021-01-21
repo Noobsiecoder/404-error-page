@@ -1,6 +1,6 @@
 # 404 Error Page
 
-A template of 404 Error page developed by NobsieCoder using **Tailwind CSS**:
+A template of 404 Error page developed by NoobsieCoder using **Tailwind CSS**:
 ![](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/challengesDesigns%2F404PageThumbnail.png?alt=media&token=81f7c567-c0bc-446f-a549-07eeda31c5ef) 
 
 ## Table of Contents
